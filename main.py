@@ -33,7 +33,11 @@ while running:
         os.system('cls')
         print("Je voldoet niet aan de voorwaarden...")
         print(coasterimg.sad())
+<<<<<<< HEAD
         time.sleep(25)
+=======
+        time.sleep(2)
+>>>>>>> f85f7cd99e68d6072242d647ed921ee2518b3717
 
     result = input("Druk op Enter om nog een keer te checken, of X om te stoppen\n\n")
     if(result.upper() == "X"):
